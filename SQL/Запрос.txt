@@ -1,0 +1,12 @@
+SELECT 
+	pr.Name as 'Продукт', 
+
+        cat.Name as 'Категория продукта'
+
+FROM Product pr
+
+LEFT JOIN ProductCategory pc on pr.ID = pc.Product_ID   --Поскольку связь многие ко многим, создавалась промежуточная таблица ProductCategory
+
+INNER JOIN Category AS cat ON cat.ID = pc.Category_ID
+
+ORDER BY pr.Name

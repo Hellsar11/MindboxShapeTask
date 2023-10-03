@@ -1,0 +1,12 @@
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\bin\Debug\net7.0\MBoxShapeLib.deps.json
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\bin\Debug\net7.0\MBoxShapeLib.dll
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\bin\Debug\net7.0\MBoxShapeLib.pdb
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.dll
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\refint\MBoxShapeLib.dll
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\MBoxShapeLib.pdb
+C:\Users\Владимир\source\repos\MBoxShapeLib\MBoxShapeLib\obj\Debug\net7.0\ref\MBoxShapeLib.dll

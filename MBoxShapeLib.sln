@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBoxShapeLib", "MBoxShapeLib\MBoxShapeLib.csproj", "{3BDCA7DB-A3D4-435E-9058-2BED8F9A5CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBoxShapeLib.Tests", "MBoxShapeLib.Tests\MBoxShapeLib.Tests.csproj", "{2B97BD8B-4CB4-48C0-BDD4-B6D8C3A8D560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDCA7DB-A3D4-435E-9058-2BED8F9A5CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDCA7DB-A3D4-435E-9058-2BED8F9A5CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDCA7DB-A3D4-435E-9058-2BED8F9A5CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDCA7DB-A3D4-435E-9058-2BED8F9A5CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B97BD8B-4CB4-48C0-BDD4-B6D8C3A8D560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B97BD8B-4CB4-48C0-BDD4-B6D8C3A8D560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B97BD8B-4CB4-48C0-BDD4-B6D8C3A8D560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B97BD8B-4CB4-48C0-BDD4-B6D8C3A8D560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE16E16B-6D1B-4F2E-AE34-7F36669C706D}
+	EndGlobalSection
+EndGlobal
